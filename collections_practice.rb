@@ -117,3 +117,4 @@ def organize_songs_by_artist (tracks)
     end
   end
   hash
+end
